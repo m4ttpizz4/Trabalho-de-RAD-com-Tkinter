@@ -5,5 +5,6 @@ Instalação:
 Lembrar de colocar o terminal na pasta em que o arquivo main.py se encontra.
 ```bash
 pip install tk
+pip install tkcalendar
 python main.py
 ```
